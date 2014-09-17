@@ -18,15 +18,24 @@
 	zoom: 1; 
 	position: relative;
 	width: 100%;
+<<<<<<< HEAD
 	max-width:540px;
 	max-height:960px;
+=======
+	max-width:720px;
+	max-height:1280px;
+>>>>>>> parent of 5c7ab9d... Revert "added new slider"
 	margin:0px auto 0px;
 	z-index:90;
 	border:none;
 	text-align:left; /* reset align=center */
 	font-size: 10px;
 }
+<<<<<<< HEAD
 * html #wowslider-container1{ width:540px }
+=======
+* html #wowslider-container1{ width:720px }
+>>>>>>> parent of 5c7ab9d... Revert "added new slider"
 #wowslider-container1 .ws_images ul{
 	position:relative;
 	width: 10000%; 
@@ -57,13 +66,21 @@
 	top:0;
 	width:100%;
 	height:100%;
+<<<<<<< HEAD
 	max-height:960px;
+=======
+	max-height:1280px;
+>>>>>>> parent of 5c7ab9d... Revert "added new slider"
 	overflow:hidden;
 }
 #wowslider-container1 .ws_images a{
 	width:100%;
 	height:100%;
+<<<<<<< HEAD
 	max-height:960px;
+=======
+	max-height:1280px;
+>>>>>>> parent of 5c7ab9d... Revert "added new slider"
 	display:block;
 	color:transparent;
 }

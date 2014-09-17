@@ -18,4 +18,8 @@ function ws_parallax(k,g,a){var c=jQuery;var f=c(this);var b=k.parallax||0.25;va
 // Obfuscated by Javascript Obfuscator
 // http://javascript-source.com
 //***********************************************
+<<<<<<< HEAD
 jQuery("#wowslider-container1").wowSlider({effect:"parallax",prev:"",next:"",duration:8*100,delay:20*100,width:540,height:960,autoPlay:true,autoPlayVideo:false,playPause:false,stopOnHover:true,loop:false,bullets:true,caption:false,captionEffect:"parallax",controls:false,responsive:1,fullScreen:false,onBeforeStep:0,images:0});
+=======
+jQuery("#wowslider-container1").wowSlider({effect:"parallax",prev:"",next:"",duration:8*100,delay:20*100,width:720,height:1280,autoPlay:true,autoPlayVideo:false,playPause:false,stopOnHover:true,loop:false,bullets:true,caption:false,captionEffect:"parallax",controls:false,responsive:1,fullScreen:false,onBeforeStep:0,images:0});
+>>>>>>> parent of 5c7ab9d... Revert "added new slider"
