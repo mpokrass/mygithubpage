@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <title>Michelle Pokrass</title>
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <h1>Michelle Pokrass</h1>
+        <h2>Portfolio</h2>
+		<section id="pages">
+			<a href="/" class="btn">Home</a>
+		</section>
+      </div>
+	  
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        <ul>
+			<li>
+				<h3>Pivot</h3>
+				
+				<p>Accelerometer motion android game, the objective is to get the ball to one of the targets, avoiding holes and walls.
+					Implements a basic physics engine for collision checking and smooth movement off of walls. Currently works best on Samsung Galaxy S4 screen sizes.
+					Download the apk <a href="pivot/pivot.apk"> here.</a> I am currently working on supporting all screen sizes and improving collision detection.
+				</p>
+			</li>
+			<li>
+				<h3>Toggle (Wordboop)</h3>
+				<p>
+					<a href="./toggle/toggle.jnlp">Launch Wordboop</a>
+				</p>
+			</li>
+			<li>
+				<h3>Freecell</h3>
+				<p>Desktop freecell card game application including game logic, auto-complete function, and smooth graphics for dragging cards.</p>
+			</li>
+		</ul>
+      </section>
+    </div>
+
+    
+  </body>
+  
+</html>
