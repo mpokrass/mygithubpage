@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+	
+    <title>Michelle Pokrass</title>
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <h1>Michelle Pokrass</h1>
+        <h2>Computer Science student at the University of Waterloo</h2>
+		<section id="pages">
+			<a href="/portfolio" class="btn">Portfolio</a>
+			<a href="/resume2014.pdf" class="btn">Resume</a>
+			<a href="/grades2014.pdf" class="btn">Grades</a>
+			<a href="https://github.com/mpokrass" class="btn">Github</a>
+			<a href="https://www.linkedin.com/in/mpokrass" class="btn">LinkedIn</a>
+		</section>
+      </div>
+	  
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+		<h3>>>About Me</h3>
+        <p>Hi! I'm a second year computer science student at the University of Waterloo. I'm interested in mobile app as well as web development, with an emphasis on sustainable back end programming. I've been working on developing my skills in the classroom, the office, and on my own for personal projects. </p>
+		
+		<p>I'm a big fan of sports, having taken part in team sports like flag football, soccer, basketball, and volleyball all throughout high school. I'm definitely a team player! I am also a former Canadian junior national karate team member, having competed and medalled at international competitions. I was ranked 2nd in my weight category in the nation from 2012-2014. </p>
+		
+		<p>Let's get in touch! Please contact me at <a href="mailto:michelle@mpokrass.com">michelle@mpokrass.com</a>.</p>
+      </section>
+    </div>
+
+    
+  </body>
+</html>
