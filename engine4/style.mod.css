@@ -28,11 +28,11 @@
     z-index: 59;
 }
 
-#wowslider-container1 .pause {
+#wowslider-container4 .pause {
     background-image: url(./pause.png);
 }
 
-#wowslider-container1 .play {
+#wowslider-container4 .play {
     background-image: url(./play.png);
 }
 
