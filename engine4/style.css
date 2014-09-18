@@ -247,7 +247,7 @@
     background-image: url(./play.png);
 }
 
-#wowslider-container4 .ws_pause:hover, #wowslider-container1 .ws_play:hover {
+#wowslider-container4 .ws_pause:hover, #wowslider-container4 .ws_play:hover {
     background-position: 100% 100% !important;
 }
 /* bottom center */
@@ -292,9 +292,9 @@
 	font-size: 3em;
 	padding:0.25em;
 }#wowslider-container4 .ws_images > ul{
-	animation: wsBasic 16.8s infinite;
-	-moz-animation: wsBasic 16.8s infinite;
-	-webkit-animation: wsBasic 16.8s infinite;
+	animation: wsBasic 11.2s infinite;
+	-moz-animation: wsBasic 11.2s infinite;
+	-webkit-animation: wsBasic 11.2s infinite;
 }
 @keyframes wsBasic{0%{left:-0%} 11.9%{left:-0%} 16.67%{left:-100%} 28.57%{left:-100%} 33.33%{left:-200%} 45.24%{left:-200%} 50%{left:-300%} 61.9%{left:-300%} 66.67%{left:-400%} 78.57%{left:-400%} 83.33%{left:-500%} 95.24%{left:-500%} }
 @-moz-keyframes wsBasic{0%{left:-0%} 11.9%{left:-0%} 16.67%{left:-100%} 28.57%{left:-100%} 33.33%{left:-200%} 45.24%{left:-200%} 50%{left:-300%} 61.9%{left:-300%} 66.67%{left:-400%} 78.57%{left:-400%} 83.33%{left:-500%} 95.24%{left:-500%} }
