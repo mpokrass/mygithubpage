@@ -41,6 +41,7 @@ header {
   border-bottom: 1px #b5e853;
   padding: 20px 0;
   margin: 0 0 40px 0;
+  display: block;
 }
 
 header h1 {
